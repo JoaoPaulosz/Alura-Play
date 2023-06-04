@@ -1,0 +1,4 @@
+#ignorando arquivos / pasta packages
+node_modules/
+
+package-lock.json
